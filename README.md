@@ -17,10 +17,10 @@ A web-based Library Management System built using **Python**, **Django**, **HTML
 ## 🖼️ Screenshots
 
 ### 🔐 Login Page
-![Login Page](screenshots/login.png)
+![Login Page](re/img1.png)
 
 ### 🏠 Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](re/img2.png)
 
 
 
