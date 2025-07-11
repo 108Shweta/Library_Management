@@ -1,4 +1,4 @@
-# Library_Management
+
 # 📚 Library Management System
 
 A web-based Library Management System built using **Python**, **Django**, **HTML**, and **CSS**. This project helps manage book issuing, user registration/login, and book records efficiently for libraries or educational institutions.
@@ -13,11 +13,6 @@ A web-based Library Management System built using **Python**, **Django**, **HTML
 - 📑 View Issued Books
 - 🔐 Session-based User Authentication
 
-## 🔗 Project Links
-
-- 🌐 Live Site: [Library Management System](https://your-live-site-link.com)
-- 📽️ Demo Video: [Watch on YouTube](https://youtube.com/your-video-link)
-- 💻 GitHub Repository: [View on GitHub](https://github.com/your-username/library-management-system)
 
 ## 🖼️ Screenshots
 
@@ -27,8 +22,7 @@ A web-based Library Management System built using **Python**, **Django**, **HTML
 ### 🏠 Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
-### 📚 Issued Books Page
-![Issued Books](screenshots/issued_books.png)
+
 
 ## 🛠️ Technologies Used
 
