@@ -38,7 +38,7 @@ Follow the steps below to run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/library-management-system.git
+git clone https://github.com/108Shweta/Library_Management.git
 cd library-management-system
 ```
 
@@ -106,16 +106,4 @@ library-management/
 
 **Shweta Bhaskar Janakwade**  
 🎓 MBA IT | Python & Django Developer  
-📫 [Your LinkedIn or Email here] (optional)
-
-## 📃 License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## ⭐️ GitHub Repository
-
-If you like this project, please ⭐ the repo to support it!
-
-```bash
-https://github.com/your-username/library-management-system
-```
+📫 [https://www.linkedin.com/in/shwetajanakwade/]
